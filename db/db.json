@@ -1,0 +1,131 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Dheema Dheema",
+      "singer": "Anirudh Ravichandar",
+      "genre": "Romantic",
+      "imgUrl": "Images/Dheema.jpg",
+      "songUrl": "Songs/Dheema.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Iravingu Theevai",
+      "singer": "Pradeep Kumar",
+      "genre": "Emotional",
+      "imgUrl": "Images/96.jpeg",
+      "songUrl": "Songs/96.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Pagaliravai",
+      "singer": "Pranav Das",
+      "genre": "Romantic",
+      "imgUrl": "Images/pagaliravai.jpg",
+      "songUrl": "Songs/pagaliravai.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Theansudare",
+      "singer": "Shakthisree Gopalan",
+      "genre": "Emotional",
+      "imgUrl": "Images/thean.jpg",
+      "songUrl": "Songs/thean.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Adiye Azhage",
+      "singer": "Padmalatha and Sean Roldan",
+      "genre": "Emotional",
+      "imgUrl": "Images/images.jpg",
+      "songUrl": "Songs/Adiye Azhage.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Marandhaye",
+      "singer": "Jonita Gandhi",
+      "genre": "Emotional",
+      "imgUrl": "Images/marandhaye.jpg",
+      "songUrl": "Songs/Marandhaye.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Muzhumathi",
+      "singer": "A.R. Rahman",
+      "genre": "Emotional",
+      "imgUrl": "Images/muzhu.jpeg",
+      "songUrl": "Songs/muzhumathi.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Hayoda",
+      "singer": "Anirudh Ravichandar",
+      "genre": "Romantic",
+      "imgUrl": "Images/hayoda.jpeg",
+      "songUrl": "Songs/hayoda.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Vazhithunaiye",
+      "singer": "Sid Sriram",
+      "genre": "Romantic",
+      "imgUrl": "Images/dragon.jpeg",
+      "songUrl": "Songs/Vazhithunaiye.mp3"
+    },
+    {
+      "id": 10,
+      "title": "Urugi Urugi",
+      "singer": "Sindhu Kumar",
+      "genre": "Romantic",
+      "imgUrl": "Images/urugi.jpeg",
+      "songUrl": "Songs/urugi.mp3"
+    },
+    {
+      "id": 11,
+      "title": "Azhagooril",
+      "singer": "S.P. Balasubrahmanyam",
+      "genre": "Romantic",
+      "imgUrl": "Images/azha.jpeg",
+      "songUrl": "Songs/azha.mp3"
+    },
+    {
+      "id": 12,
+      "title": "Naana Thaana",
+      "singer": "Anirudh Ravichandar",
+      "genre": "Romantic",
+      "imgUrl": "Images/nana.jpeg",
+      "songUrl": "Songs/nana.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 4,
+      "title": "Theansudare",
+      "imgUrl": "Images/thean.jpg",
+      "genre": "Emotional",
+      "songUrl": "Songs/thean.mp3",
+      "singer": "Shakthisree Gopalan",
+      "id": 1
+    },
+    {
+      "itemId": 2,
+      "title": "Iravingu Theevai",
+      "imgUrl": "Images/96.jpeg",
+      "genre": "Emotional",
+      "songUrl": "Songs/96.mp3",
+      "singer": "Pradeep Kumar",
+      "id": 2
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 8,
+      "title": "Hayoda",
+      "imgUrl": "Images/hayoda.jpeg",
+      "genre": "Romantic",
+      "songUrl": "Songs/hayoda.mp3",
+      "singer": "Anirudh Ravichandar",
+      "id": 1
+    }
+  ]
+}
